@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/exp-tracker-app/static/css/main.5e311fbb.css",
+    "main.js": "/exp-tracker-app/static/js/main.91f3dfa2.js",
+    "static/js/787.afd34582.chunk.js": "/exp-tracker-app/static/js/787.afd34582.chunk.js",
+    "index.html": "/exp-tracker-app/index.html",
+    "main.5e311fbb.css.map": "/exp-tracker-app/static/css/main.5e311fbb.css.map",
+    "main.91f3dfa2.js.map": "/exp-tracker-app/static/js/main.91f3dfa2.js.map",
+    "787.afd34582.chunk.js.map": "/exp-tracker-app/static/js/787.afd34582.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5e311fbb.css",
+    "static/js/main.91f3dfa2.js"
+  ]
+}
